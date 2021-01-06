@@ -1,0 +1,18 @@
+name: InvasionHoes
+version: ${project.version}
+main: net.invasionpvp.harmlesscat.FactionHandHoes
+api-version: 1.16
+depend:
+  - Factions
+  - PlaceholderAPI
+  - Vault
+commands:
+  hoes:
+    aliases:
+      - hoe
+  ahoes:
+    aliases:
+       - ahoe
+  cane:
+    aliases:
+      - scane
